@@ -1,0 +1,41 @@
+event_id,title,topic,event_type,event_date,location,capacity
+E001,Kickoff Mixer,Social,Social,2025-09-22,Zoom,60
+E002,Tech Consulting Panel,Career,Panel,2025-09-27,Zoom,50
+E003,Automating Excel with Python,Python,Workshop,2025-10-05,Learning Commons 1st Floor,30
+E004,Writing a PRD,Product Management,Workshop,2025-10-09,Benson Center Parlors,60
+E005,Prompting for Analysts,GenAI,Workshop,2025-10-15,Lucas Hall 126,80
+E006,End of Quarter Social,Social,Social,2025/10/18,Lucas Hall 207,50
+E007,Automating Excel with Python,Python,Workshop,2025-10-22,Learning Commons 1st Floor,30
+E008,Roadmapping Workshop,Product Management,Workshop,2025-10-27,Lucas Hall 126,40
+E009,Mock Interviews,Career,Panel,2025-11-03,Learning Commons 1st Floor,0
+E010,LinkedIn Headshots,Career,Panel,2025-11-07,Zoom,40
+E011,Tech Consulting Panel,Career,Panel,2025-11-12,Lucas Hall 126,50
+E012,Boba Social,Social,Social,2025-11-19,Zoom,50
+E013,Boba Social, social ,Social,2025-11-21,Benson Center Parlors,80
+E014,Python for Analysts,Python,Workshop,2025-11-29,Learning Commons 1st Floor,80
+E015,Kickoff Mixer,Social,Social,2026-01-08,Benson Center Parlors,50
+E016,Pandas Workshop,Python,Workshop,2026-01-13,Benson Center Parlors,40
+E017,AI in the Enterprise Panel,GenAI,Workshop,2026-01-16,Learning Commons 1st Floor,40
+E018,Kickoff Mixer,Social,Social,2026-01-24,Benson Center Parlors,60
+E019,Building with LLM APIs,GenAI,Workshop,2026-01-29,Lucas Hall 207,60
+E020,Data Modeling 101,SQL & Data,Workshop,2026-02-01,Lucas Hall 126,60
+E021,Intro to SQL,SQL & Data,Workshop,2026-02-09,Lucas Hall 207,60
+E022,Kickoff Mixer,Social,Social,2026-02-12,Learning Commons 1st Floor,50
+E023,Storytelling with Data,Data Visualization,Workshop,2026-02-20,Lucas Hall 126,50
+E024,Boba Social,Social,Social,2026-02-25,Learning Commons 1st Floor,80
+E025,Advanced SQL Joins,SQL & Data,Workshop,2026-02-27,Benson Center Parlors,40
+E026,Building with LLM APIs,GenAI,Workshop,2026-03-05,Lucas Hall 126,30
+E027,Mock Interviews,Career,Panel,2026-03-11,Lucas Hall 126,30
+E028,Kickoff Mixer,Social,Social,2026-04-01,Lucas Hall 126,50
+E029,Dashboard Design,Data Visualization,Workshop,2026-04-06,Lucas Hall 207,40
+E030,Automating Excel with Python,Python,Workshop,2026-04-12,Lucas Hall 207,40
+E031,Roadmapping Workshop,Product Management,Workshop,2026-04-15,Zoom,40
+E032,Tech Consulting Panel,Career,Panel,2026-04-21,Learning Commons 1st Floor,50
+E033,Resume Review Night,Career,Panel,2026-04-27,Learning Commons 1st Floor,50
+E034,Prompting for Analysts,GenAI,Workshop,2026-05-02,Learning Commons 1st Floor,50
+E035,Automating Excel with Python,Python,Workshop,2026-05-08,Learning Commons 1st Floor,50
+E036,Tech Consulting Panel,Career,Panel,2026-05-14,Learning Commons 1st Floor,60
+E037,Query Tuning Lab,SQL & Data,Workshop,2026-05-18,Zoom,50
+E038,Automating Excel with Python,Python,Workshop,2026-05-24,Benson Center Parlors,30
+E039,Boba Social,Social,Social,2026-05-31,Lucas Hall 126,80
+E040,End of Quarter Social,Social,Social,2026-06-02,Learning Commons 1st Floor,50

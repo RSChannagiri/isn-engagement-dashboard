@@ -1,0 +1,202 @@
+member_id,first_name,last_name,email,major,class_year,join_date
+M0001,Danielle,Johnson,djohnson1@scu.edu,Marketing,Sophomore,2026-01-05
+M0002,Joshua,Walker,jwalker2@scu.edu,Marketing,Freshman,2025-09-25
+M0003,Jill,Rhodes,jrhodes3@scu.edu,Management Information Systems,Sophomore,2025-09-23
+M0004,Patricia,Miller,pmiller4@scu.edu,Management Information Systems,Sophomore,2025-10-11
+M0005,Robert,Johnson,rjohnson5@scu.edu,Computer Science and Engineering,Senior,2026-01-22
+M0006,Jeffery,Wagner,jwagner6@scu.edu,Economics,Sophomore,2025-09-22
+M0007,Anthony,Gonzalez,agonzalez7@scu.edu,Management Information Systems,Sophomore,2026-01-15
+M0008,Debra,Gardner,dgardner8@scu.edu,Management Information Systems,Senior,2026-04-09
+M0009,Jeffrey,Lawrence,jlawrence9@scu.edu,Finance,Freshman,2025-10-03
+M0010,Lisa,Smith,lsmith10@scu.edu,Management Information Systems,Senior,2026-01-22
+M0011,Linda,Wolfe,lwolfe11@scu.edu,Economics,Junior,10/01/2025
+M0012,Matthew,Moore,mmoore12@scu.edu,,Sophomore,2025-09-24
+M0013,Susan,Rogers,  SROGERS13@SCU.EDU ,Accounting,Freshman,2026-01-07
+M0014,Christopher,Davis,cdavis14@scu.edu,Finance,Junior,2025-10-06
+M0015,Melanie,Munoz,mmunoz15@scu.edu,Management Information Systems,Junior,2025-10-03
+M0016,Lindsay,Blair,lblair16@scu.edu,Management Information Systems,Sophomore,2026-01-25
+M0017,Amanda,Dudley,adudley17@scu.edu,Management Information Systems,Senior,2025-09-29
+M0018,Nicholas,Arnold,narnold18@scu.edu,Marketing,Sophomore,2025-10-12
+M0019,Maria,Montgomery,mmontgomery19@scu.edu,Management Information Systems,Freshman,2026-01-06
+M0020,Michelle,Ray,mray20@scu.edu,Management Information Systems,Sophomore,2026-01-17
+M0021,Janet,Williams,jwilliams21@scu.edu,Accounting,Junior,2026-04-17
+M0022,Jeremy,Roberts,jroberts22@scu.edu,Computer Science and Engineering,Senior,2025-10-07
+M0023,Christopher,Hall,chall23@scu.edu,Management Information Systems,Junior,2025-09-26
+M0024,Craig,Ramirez,cramirez24@scu.edu,Accounting,Senior,2026-01-18
+M0025,Cynthia,Diaz,cdiaz25@scu.edu,Computer Science and Engineering,Freshman,2025-09-26
+M0026,Mitchell,Clark,mclark26@scu.edu,Management Information Systems,Sophomore,2026-01-08
+M0027,Joseph,Zuniga,jzuniga27@scu.edu,Finance,Senior,2026-01-18
+M0028,Deborah,Lynch,dlynch28@scu.edu,Computer Science and Engineering,Freshman,2025-10-06
+M0029,George,Daniel,gdaniel29@scu.edu,Marketing,Junior,2026-01-08
+M0030,Frank,Gray,fgray30@scu.edu,Management Information Systems,Senior,2026-01-15
+M0031,Veronica,Bowman,vbowman31@scu.edu,,Junior,2025-09-22
+M0032,Angela,Cohen,acohen32@scu.edu,,Freshman,2026-04-04
+M0033,Megan,Parsons,mparsons33@scu.edu,Accounting,Sophomore,2026-04-08
+M0034,Jeremy,Johnson,jjohnson34@scu.edu,Finance,Freshman,2025-09-27
+M0035,Leslie,Adams,ladams35@scu.edu,Management Information Systems,Junior,2025-10-07
+M0036,Jason,Hahn,jhahn36@scu.edu,Management Information Systems,Sophomore,2026-04-08
+M0037,Nancy,Edwards,nedwards37@scu.edu,Management Information Systems,Senior,2026-04-01
+M0038,Diana,Foster,dfoster38@scu.edu,Economics,Sophomore,2026-01-22
+M0039,Robin,Ellis,rellis39@scu.edu,Management Information Systems,Senior,2026-01-22
+M0040,Joseph,Wright,jwright40@scu.edu,Economics,Sophomore,2026-04-16
+M0041,Anna,Baker,abaker41@scu.edu,Business Analytics,Junior,2026-01-17
+M0042,Brenda,Hurst,bhurst42@scu.edu,Computer Science and Engineering,Sophomore,2025-10-08
+M0043,Reginald,Robinson,rrobinson43@scu.edu,Management Information Systems,Sophomore,2025-10-02
+M0044,Whitney,Hicks,whicks44@scu.edu,Management Information Systems,freshman,2025-09-22
+M0045,Christopher,Williams,cwilliams45@scu.edu,Accounting,Freshman,2025-09-23
+M0046,Daniel,Burton,dburton46@scu.edu,Marketing,Sophomore,2025-09-30
+M0047,Laura,Henderson,lhenderson47@scu.edu,Finance,Sophomore,2025-10-10
+M0048,Bryan,James,bjames48@scu.edu,Management Information Systems,Freshman,2026-01-18
+M0049,Wendy,Rice,wrice49@scu.edu,Computer Science and Engineering,Senior,2026-01-16
+M0050,Tasha,Valencia,tvalencia50@scu.edu,Marketing,Freshman,2026-03-31
+M0051,Alexander,Le,  ALE51@SCU.EDU ,Economics,Freshman,2025-10-02
+M0052,Erin,Herrera,eherrera52@scu.edu,Finance,Sophomore,2025-09-28
+M0053,Joseph,Davidson,jdavidson53@scu.edu,Computer Science and Engineering,Freshman,2025-09-30
+M0054,Daniel,Graham,dgraham54@scu.edu,Management Information Systems,Freshman,2025-10-09
+M0055,Shawn,Mckay,smckay55@scu.edu,Management Information Systems,Senior,2026-04-06
+M0056,Nancy,Baker,nbaker56@scu.edu,Business Analytics,Sophomore,2025-10-04
+M0057,Vincent,White,vwhite57@scu.edu,Management Information Systems,Senior,2025-10-04
+M0058,Rita,Harrell,rharrell58@scu.edu,Marketing,Senior,2025-10-09
+M0059,Kenneth,Fowler,kfowler59@scu.edu,Management Information Systems,Freshman,2025-10-01
+M0060,Chelsea,Hernandez,chernandez60@scu.edu,Management Information Systems,Junior,2025-10-09
+M0061,Kathryn,Ryan,kryan61@scu.edu,Computer Science and Engineering,Sophomore,2025-10-10
+M0062,Kimberly,Moreno,kmoreno62@scu.edu,Management Information Systems,Sophomore,2025-10-08
+M0063,Aaron,Nguyen,anguyen63@scu.edu,Marketing,Sophomore,2025-09-24
+M0064,Andrew,Hickman,ahickman64@scu.edu,Management Information Systems,Freshman,2025-10-10
+M0065,Natasha,Decker,ndecker65@scu.edu,Marketing,Junior,2026-01-18
+M0066,Kyle,Brown,kbrown66@scu.edu,Marketing,Junior,2026-04-05
+M0067,Natalie,Arroyo,narroyo67@scu.edu,Management Information Systems,Junior,2025-10-04
+M0068,Christopher,Tucker,ctucker68@scu.edu,Management Information Systems,Freshman,2025-09-24
+M0069,Chad,Hodges,chodges69@scu.edu,Computer Science and Engineering,Sophomore,2025-09-28
+M0070,Katie,Anderson,kanderson70@scu.edu,Accounting,Junior,2026-04-01
+M0071,Thomas,Pierce,tpierce71@scu.edu,,Junior,2025-10-06
+M0072,Joseph,Brennan,jbrennan72@scu.edu,Computer Science and Engineering,Junior,2026-01-25
+M0073,Rodney,Lewis,rlewis73@scu.edu,Business Analytics,Sophomore,2026-04-02
+M0074,Amber,Blair,ablair74@scu.edu,Marketing,Sophomore,2025-09-25
+M0075,James,Collins,jcollins75@scu.edu,Management Information Systems,Junior,2025-10-11
+M0076,Wanda,Santos,wsantos76@scu.edu,Accounting,Senior,2025-10-12
+M0077,Samuel,Holmes,sholmes77@scu.edu,Management Information Systems,Senior,2025-09-23
+M0078,David,Walker,dwalker78@scu.edu,Management Information Systems,Sophomore,2026-01-06
+M0079,Matthew,Chapman,mchapman79@scu.edu,Management Information Systems,Senior,2026-01-13
+M0080,Jerry,Robinson,jrobinson80@scu.edu,Finance,Freshman,2025-10-05
+M0081,Chad,Welch,cwelch81@scu.edu,Finance,Junior,2025-09-26
+M0082,Jeremy,Whitehead,  JWHITEHEAD82@SCU.EDU ,Computer Science and Engineering,Freshman,2025-09-26
+M0083,Michele,Jones,mjones83@scu.edu,Accounting,Sophomore,2025-09-23
+M0084,John,Caldwell,jcaldwell84@scu.edu,Computer Science and Engineering,senior,2026-01-08
+M0085,Jason,Anderson,janderson85@scu.edu,Business Analytics,Sophomore,2026-04-03
+M0086,Selena,Duncan,sduncan86@scu.edu,Accounting,Freshman,2026-04-04
+M0087,Thomas,Mueller,tmueller87@scu.edu,Economics,Senior,2025-10-02
+M0088,Lindsey,Lee,llee88@scu.edu,Management Information Systems,Freshman,2026-01-12
+M0089,Collin,Jordan,cjordan89@scu.edu,Accounting,Sophomore,2025-09-23
+M0090,Rodney,Owens,rowens90@scu.edu,Management Information Systems,Sophomore,2025-10-06
+M0091,Jessica,Nunez,jnunez91@scu.edu,Computer Science and Engineering,Junior,2025-09-28
+M0092,Tracey,Garcia,tgarcia92@scu.edu,Computer Science and Engineering,Senior,2026-04-07
+M0093,Richard,Morgan,rmorgan93@scu.edu,Management Information Systems,Freshman,2026-01-22
+M0094,Michelle,Wright,mwright94@scu.edu,Management Information Systems,Junior,2025-09-30
+M0095,James,West,jwest95@scu.edu,Computer Science and Engineering,Junior,2025-10-11
+M0096,Robert,Ramirez,rramirez96@scu.edu,Management Information Systems,Sophomore,2025-10-08
+M0097,John,Leblanc,jleblanc97@scu.edu,Management Information Systems,Sophomore,2025-10-05
+M0098,Scott,Callahan,scallahan98@scu.edu,Business Analytics,Junior,2025-09-24
+M0099,Andrea,Williams,awilliams99@scu.edu,Marketing,Junior,2026-01-08
+M0100,Yvette,Huff,yhuff100@scu.edu,Management Information Systems,Junior,2025-10-05
+M0101,Tanya,House,thouse101@scu.edu,Computer Science and Engineering,Senior,2025-09-28
+M0102,Melinda,Martin,mmartin102@scu.edu,Finance,Junior,2026-01-10
+M0103,Todd,Lewis,tlewis103@scu.edu,Management Information Systems,Sophomore,2025-09-22
+M0104,Richard,Brown,rbrown104@scu.edu,Finance,Junior,2025-10-10
+M0105,Nicholas,Galloway,ngalloway105@scu.edu,Marketing,Senior,2025-10-06
+M0106,Joseph,Bowers,jbowers106@scu.edu,Marketing,Junior,2026-01-10
+M0107,Spencer,Henderson,shenderson107@scu.edu,Finance,Freshman,2025-10-12
+M0108,Susan,Cowan,scowan108@scu.edu,,Sophomore,2026-01-12
+M0109,Angela,Higgins,ahiggins109@scu.edu,Management Information Systems,Sophomore,2026-01-09
+M0110,Eric,Phillips,ephillips110@scu.edu,Accounting,Freshman,2026-04-18
+M0111,Tanya,Riley,triley111@scu.edu,Finance,Senior,2025-10-12
+M0112,Amy,Adkins,  AADKINS112@SCU.EDU ,Management Information Systems,Freshman,2025-09-29
+M0113,Brian,Silva,bsilva113@scu.edu,Economics,Sophomore,2026-04-02
+M0114,Wesley,Farrell,wfarrell114@scu.edu,Computer Science and Engineering,Sophomore,2025-10-08
+M0115,Eric,Yu,eyu115@scu.edu,Computer Science and Engineering,Senior,2026-04-02
+M0116,Christopher,Lopez,clopez116@scu.edu,Finance,senior,2026-01-22
+M0117,Brooke,Leonard,bleonard117@scu.edu,Computer Science and Engineering,Senior,2026-01-21
+M0118,Joe,Wilson,jwilson118@scu.edu,Computer Science and Engineering,Sophomore,2026-04-14
+M0119,Pamela,Sanchez,psanchez119@scu.edu,Economics,Senior,2026-01-13
+M0120,Brooke,Harvey,bharvey120@scu.edu,Computer Science and Engineering,Junior,2026-01-13
+M0121,Robert,Silva,rsilva121@scu.edu,Management Information Systems,Freshman,2025-10-02
+M0122,Alexandra,Donovan,adonovan122@scu.edu,Computer Science and Engineering,Sophomore,2025-09-29
+M0123,James,Moran,jmoran123@scu.edu,Computer Science and Engineering,Junior,2026-01-07
+M0124,John,Foster,jfoster124@scu.edu,Management Information Systems,Senior,2025-10-05
+M0125,Emily,Evans,eevans125@scu.edu,Business Analytics,Freshman,2025-10-10
+M0126,Leslie,Walton,lwalton126@scu.edu,Computer Science and Engineering,Freshman,2026-04-17
+M0127,Charles,Ellis,  CELLIS127@SCU.EDU ,Economics,Senior,2026-04-08
+M0128,Yolanda,Ferrell,  YFERRELL128@SCU.EDU ,Economics,Sophomore,2025-10-09
+M0129,Charles,Lewis,clewis129@scu.edu,Computer Science and Engineering,Freshman,2025-09-30
+M0130,Joseph,Mahoney,jmahoney130@scu.edu,Marketing,Senior,2025-10-04
+M0131,Nicole,Suarez,nsuarez131@scu.edu,Finance,Senior,2026-04-18
+M0132,Mike,Moore,mmoore132@scu.edu,Management Information Systems,Senior,2025-09-22
+M0133,Martha,Warner,mwarner133@scu.edu,Management Information Systems,Junior,2025-10-06
+M0134,Cheryl,Archer,carcher134@scu.edu,Computer Science and Engineering,Junior,2025-09-28
+M0135,Destiny,Smith,dsmith135@scu.edu,Management Information Systems,Senior,2026-01-17
+M0136,Lisa,Evans,levans136@scu.edu,Computer Science and Engineering,Freshman,2025-09-24
+M0137,Elizabeth,Mcmillan,emcmillan137@scu.edu,Management Information Systems,Freshman,2026-04-10
+M0138,Dennis,Wilson,dwilson138@scu.edu,Management Information Systems,Freshman,2026-01-25
+M0139,Daniel,Tran,dtran139@scu.edu,Accounting,Sophomore,2026-04-05
+M0140,Joseph,Jacobs,jjacobs140@scu.edu,Marketing,Sophomore,2025-10-07
+M0141,Jennifer,Harris,jharris141@scu.edu,Economics,Sophomore,2025-09-30
+M0142,Cynthia,Baker,cbaker142@scu.edu,Economics,Sophomore,2026-01-08
+M0143,Tracy,Whitehead,twhitehead143@scu.edu,Finance,Junior,2026-04-02
+M0144,Meghan,Davis,mdavis144@scu.edu,Computer Science and Engineering,Sophomore,2025-10-04
+M0145,Rodney,Hill,rhill145@scu.edu,Management Information Systems,Junior,2025-10-12
+M0146,Adam,Wise,awise146@scu.edu,Economics,Freshman,2026-04-18
+M0147,Dana,Green,dgreen147@scu.edu,Marketing,Freshman,2025-10-05
+M0148,Joyce,Arnold,jarnold148@scu.edu,Management Information Systems,Senior,2025-10-02
+M0149,Ronald,Smith,rsmith149@scu.edu,Computer Science and Engineering,Junior,2026-01-08
+M0150,Charles,Ware,cware150@scu.edu,Marketing,Senior,2026-01-19
+M0151,Rebecca,Gardner,rgardner151@scu.edu,Business Analytics,Junior,2025-10-08
+M0152,Mary,Aguilar,maguilar152@scu.edu,Economics,Senior,2026-01-22
+M0153,Earl,Anderson,eanderson153@scu.edu,Management Information Systems,Sophomore,2025-10-10
+M0154,Kyle,Nolan,knolan154@scu.edu,Management Information Systems,senior,2026-01-07
+M0155,Laura,Valencia,lvalencia155@scu.edu,Finance,Senior,2025-10-06
+M0156,Rachel,Clark,rclark156@scu.edu,Accounting,Sophomore,2025-10-07
+M0157,John,Garcia,jgarcia157@scu.edu,Economics,Junior,2025-10-03
+M0158,Kimberly,Henson,khenson158@scu.edu,Marketing,Junior,2025-10-11
+M0159,Richard,Oliver,roliver159@scu.edu,Business Analytics,Freshman,2025-10-08
+M0160,Eric,Spears,espears160@scu.edu,Computer Science and Engineering,Sophomore,2025-10-05
+M0161,Michelle,Cherry,mcherry161@scu.edu,Marketing,Senior,2026-01-25
+M0162,Lisa,Keith,lkeith162@scu.edu,Management Information Systems,Senior,2026-01-07
+M0163,Angel,Doyle,adoyle163@scu.edu,Marketing,Junior,2026-01-14
+M0164,Martin,Galvan,mgalvan164@scu.edu,Management Information Systems,Junior,2025-10-08
+M0165,Leah,Shields,lshields165@scu.edu,Management Information Systems,Junior,2025-10-06
+M0166,Lisa,Adams,ladams166@scu.edu,Management Information Systems,Sophomore,2025-09-28
+M0167,Kristin,Rodriguez,krodriguez167@scu.edu,Management Information Systems,Junior,2025-10-07
+M0168,Monica,Garrison,mgarrison168@scu.edu,Management Information Systems,Junior,2026-04-05
+M0169,Jeffrey,Velasquez,jvelasquez169@scu.edu,Marketing,Sophomore,2025-09-22
+M0170,Steven,Torres,storres170@scu.edu,Finance,Sophomore,2025-09-23
+M0171,Laura,Perez,lperez171@scu.edu,Management Information Systems,Freshman,2026-01-20
+M0172,Andrew,Lee,alee172@scu.edu,Computer Science and Engineering,Junior,2025-10-07
+M0173,Mark,Lin,mlin173@scu.edu,Management Information Systems,Senior,2025-09-23
+M0174,Tammy,Ramirez,tramirez174@scu.edu,Computer Science and Engineering,Freshman,2025-09-24
+M0175,Darlene,Ross,dross175@scu.edu,Management Information Systems,Junior,2025-09-23
+M0176,Tina,Herrera,therrera176@scu.edu,Management Information Systems,Senior,2025-09-29
+M0177,Sheila,Wilson,swilson177@scu.edu,Management Information Systems,Senior,2026-01-24
+M0178,Tara,White,twhite178@scu.edu,Management Information Systems,Senior,2025-10-06
+M0179,Sydney,Baker,sbaker179@scu.edu,Management Information Systems,Freshman,2025-10-11
+M0180,Daniel,Hamilton,dhamilton180@scu.edu,Finance,Junior,2026-04-05
+M0181,Jessica,Edwards,jedwards181@scu.edu,Management Information Systems,Freshman,2026-01-10
+M0182,Catherine,Dixon,cdixon182@scu.edu,Computer Science and Engineering,Senior,2025-10-05
+M0183,Paul,Ray,pray183@scu.edu,Management Information Systems,Junior,2025-09-29
+M0184,Jonathan,Fletcher,jfletcher184@scu.edu,Management Information Systems,Sophomore,2026-01-19
+M0185,Aaron,Frost,afrost185@scu.edu,Finance,Sophomore,2026-04-19
+M0186,Amanda,Ball,aball186@scu.edu,Management Information Systems,Sophomore,2025-10-09
+M0187,Judy,Lambert,jlambert187@scu.edu,Management Information Systems,Sophomore,2026-04-03
+M0188,Michael,Jones,mjones188@scu.edu,Marketing,Junior,2026-01-24
+M0189,Elizabeth,Rivera,erivera189@scu.edu,Marketing,Senior,2025-10-06
+M0190,Lee,Charles,lcharles190@scu.edu,Finance,Senior,2026-04-15
+M0191,Jennifer,Evans,jevans191@scu.edu,Accounting,Junior,2025-09-23
+M0192,Kyle,Ortiz,kortiz192@scu.edu,Management Information Systems,Freshman,2026-01-05
+M0193,Richard,Phillips,rphillips193@scu.edu,Finance,Sophomore,2026-04-07
+M0194,David,Fisher,dfisher194@scu.edu,Computer Science and Engineering,Junior,2025-10-12
+M0195,Shelby,Byrd,sbyrd195@scu.edu,Computer Science and Engineering,Senior,2025-10-10
+M0196,Raven,Gilbert,rgilbert196@scu.edu,Management Information Systems,Junior,2026-04-14
+M0197,Kevin,Kelley,kkelley197@scu.edu,Accounting,Junior,2025-09-25
+M0198,Aaron,Mitchell,amitchell198@scu.edu,Management Information Systems,Senior,2025-10-07
+M0199,Russell,Carpenter,rcarpenter199@scu.edu,Management Information Systems,Freshman,2026-01-22
+M0200,Diana,Marshall,dmarshall200@scu.edu,Management Information Systems,Senior,2025-10-02
+M0004,Patricia,Miller,pmiller4@scu.edu,Management Information Systems,Sophomore,2025-10-11
