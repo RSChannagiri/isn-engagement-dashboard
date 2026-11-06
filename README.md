@@ -1,5 +1,6 @@
 # ISN Engagement Dashboard
 
+[![CI](https://github.com/RSChannagiri/isn-engagement-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/RSChannagiri/isn-engagement-dashboard/actions/workflows/ci.yml)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -139,7 +140,8 @@ The suite covers term boundaries, the seed generator (determinism, no check-ins 
 member joined), every cleaning rule in the ETL, database constraints and transactional
 reloads, every SQL query (and that SQL matches pandas), each metric on a small hand-checked
 dataset plus edge cases (empty data, unknown columns, out-of-range scores), chart builders,
-and Streamlit `AppTest` smoke tests that click through filters and selectors.
+and Streamlit `AppTest` smoke tests that click through filters and selectors. GitHub
+Actions runs lint and tests on every push.
 
 ## Tech stack
 
